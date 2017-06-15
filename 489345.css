@@ -390,7 +390,7 @@ nav {}
 .slidesjs-pagination a,
 #slides-navigation a {
     display: block;
-    background: url(bg/circle.png) no-repeat 50% 50%;
+    background: url(http://planner.printcerovski.com/css/bg/circle.png) no-repeat 50% 50%;
     color: #1a1a1a;
     border-radius: 50%;
 }
@@ -526,7 +526,7 @@ ul.layout-types {
     position: absolute;
     top: 0;
     right: 8px;
-    content: url(bg/customize-arrow.png);
+    content: url(http://planner.printcerovski.com/css/bg/customize-arrow.png);
     opacity: .3;
     -webkit-transition: opacity .3s ease-out;
     transition: opacity .3s ease-out;
@@ -656,11 +656,11 @@ label {
     content: "";
     width: 17px;
     height: 17px;
-    background: url(bg/checkbox-inactive.png) no-repeat 50% 50%;
+    background: url(http://planner.printcerovski.com/css/bg/checkbox-inactive.png) no-repeat 50% 50%;
 }
 
 .confirm-photo input:checked + .faux-input:after{
-    background-image: url(bg/checkbox-active.png);
+    background-image: url(http://planner.printcerovski.com/css/bg/checkbox-active.png);
 }
 
 input,
@@ -713,7 +713,7 @@ textarea#book-title {
 
 textarea.posveta{
     height: 280px;
-    background: url(bg/posveta.png) repeat-x 0 0;
+    background: url(http://planner.printcerovski.com/css/bg/posveta.png) repeat-x 0 0;
     line-height: 28px;
     padding: 5px 0 0;
 }
@@ -867,7 +867,7 @@ USEFULL CLASSES
 
 .front {
     position: relative;
-    background: url(bg/shadow-front.png) no-repeat -2px 0;
+    background: url(http://planner.printcerovski.com/css/bg/shadow-front.png) no-repeat -2px 0;
     width: 252px;
     height: 385px;
     margin: 0 auto 10px;
@@ -879,7 +879,7 @@ USEFULL CLASSES
     z-index: 5;
     top: 348px;
     left: 37px;
-    content: url(bg/track-outline.png) no-repeat 0 0;
+    content: url(http://planner.printcerovski.com/css/bg/track-outline.png) no-repeat 0 0;
 }
 
 .front-inner {
@@ -897,12 +897,12 @@ USEFULL CLASSES
 .front-inner:after {
     position: relative;
     z-index: 20;
-    content: url(bg/by-cerovski.png);
+    content: url(http://planner.printcerovski.com/css/bg/by-cerovski.png);
     margin-left: 39px;
 }
 
 .planer2016 .front-inner{
-    background-image: url(bg/materijal.png);
+    background-image: url(http://planner.printcerovski.com/css/bg/materijal.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -921,7 +921,7 @@ USEFULL CLASSES
     z-index: 100;
     top: 120px;
     left: 68px;
-    background: #fff url(../images/front-image-bg.png) no-repeat 50% 50%;
+    background: #fff url(http://planner.printcerovski.com/images/front-image-bg.png) no-repeat 50% 50%;
     box-shadow: 0 0 3px rgba(131,131,131,1);
 }
 
@@ -947,7 +947,7 @@ USEFULL CLASSES
     left: 8px;
     width: 39px;
     height: 342px;
-    background: #fff url(bg/hrbat-texture.png) no-repeat 0 0;
+    background: #fff url(http://planner.printcerovski.com/css/bg/hrbat-texture.png) no-repeat 0 0;
     border: 1px solid #d1d2d3;
 }
 
@@ -1065,7 +1065,7 @@ USEFULL CLASSES
     z-index: 30;
     font-size: 13px;
     line-height: 20px;
-    background: url(bg/strelica2.png) no-repeat 0 3px;
+    background: url(http://planner.printcerovski.com/css/bg/strelica2.png) no-repeat 0 3px;
     color: #1a1a1a;
     padding-left: 75px;
     text-align: left;
@@ -1074,7 +1074,7 @@ USEFULL CLASSES
 div.note1,
 div.note2 {
     text-align: right;
-    background: url(bg/strelica.png) no-repeat 100% 4px;
+    background: url(http://planner.printcerovski.com/css/bg/strelica.png) no-repeat 100% 4px;
     padding-right: 75px;
     padding-left: 0;
 }
@@ -1107,7 +1107,7 @@ div.note2 {
 .note6{
     top: 165px;
     left: 175px;
-    background: url(bg/strelica2-wide.png) no-repeat 0 3px;
+    background: url(http://planner.printcerovski.com/css/bg/strelica2-wide.png) no-repeat 0 3px;
     padding-left: 119px;
     z-index: 100;
 }
@@ -1124,7 +1124,7 @@ div.note2 {
 }
 .spread {
     position: relative;
-    background: url(bg/shadow-spread.png) no-repeat 0 0;
+    background: url(http://planner.printcerovski.com/css/bg/shadow-spread.png) no-repeat 0 0;
     width: 490px;
     height: 385px;
     margin: 0 auto 10px;
@@ -1133,7 +1133,7 @@ div.note2 {
 
 .spread-inner {
     background-color: #fff;
-    background-image: url(bg/spread.png);
+    background-image: url(http://planner.printcerovski.com/css/bg/spread.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     height: 342px;
@@ -1156,7 +1156,7 @@ div.note2 {
     width: 105px;
     bottom: 0;
     padding-top: 100px;
-    background: url(bg/posveta-footer.png) no-repeat 0 320px;
+    background: url(http://planner.printcerovski.com/css/bg/posveta-footer.png) no-repeat 0 320px;
     font-size: 6px;
     letter-spacing: -.8px;
     line-height: 7px;
@@ -1195,7 +1195,7 @@ div.note2 {
 
 .front-small {
     position: relative;
-    background: url(bg/shadow-front-small.png) no-repeat 0 0;
+    background: url(http://planner.printcerovski.com/css/bg/shadow-front-small.png) no-repeat 0 0;
     width: 177px;
     height: 258px;
     float: left;
@@ -1245,7 +1245,7 @@ div.note2 {
 .front-sidebar{
     position: relative;
     /*
-    background: url(bg/shadow-front-small.png) no-repeat 0 0;
+    background: url(http://planner.printcerovski.com/css/bg/shadow-front-small.png) no-repeat 0 0;
     background-size: cover;
     */
     float: left;
@@ -2017,7 +2017,7 @@ cursor:auto;
 
 .front-2017{
 	position: relative;
-    background: url(bg/2017/shadow-front.png) no-repeat 50% 50%;
+    background: url(http://planner.printcerovski.com/css/bg/2017/shadow-front.png) no-repeat 50% 50%;
     width: 224px;
     height: 304px;
     margin: 0 209px 0 205px;
@@ -2027,7 +2027,7 @@ cursor:auto;
 
 .spread2017 {
     position: relative;
-    background: url(bg/2017/spread-2017.png) no-repeat 0 0;
+    background: url(http://planner.printcerovski.com/css/bg/2017/spread-2017.png) no-repeat 0 0;
     width: 424px;
     height: 304px;
     margin: 0 auto 66px;
@@ -2054,21 +2054,21 @@ cursor:auto;
 }
 
 .bg-gold{
-	background: url(bg/2017/gold.jpg) no-repeat 0 0;
+	background: url(http://planner.printcerovski.com/css/bg/2017/gold.jpg) no-repeat 0 0;
 }
 
 .bg-silver{
-	background: url(bg/2017/silver.jpg) no-repeat 0 0;
+	background: url(http://planner.printcerovski.com/css/bg/2017/silver.jpg) no-repeat 0 0;
 }
 
 .bg-purple{
-	background: url(bg/2017/purple.jpg) no-repeat 0 0;
+	background: url(http://planner.printcerovski.com/css/bg/2017/purple.jpg) no-repeat 0 0;
 }
 
 .note7-1 {
     top: 90px;
     right: 203px;
-    background: url(bg/strelica.png) no-repeat 100% 4px;
+    background: url(http://planner.printcerovski.com/css/bg/strelica.png) no-repeat 100% 4px;
     padding-right: 75px;
     padding-left: 0;
 	width: 160px;
@@ -2096,7 +2096,7 @@ cursor:auto;
 	width: 170px;
 	height: 231px;
 	height: 230px; /* shadow bug */
-	background: url(bg/2017/shadow-front.png) no-repeat 50% 50%;
+	background: url(http://planner.printcerovski.com/css/bg/2017/shadow-front.png) no-repeat 50% 50%;
 	background-size: cover;
 	margin: 14px 16px;
 	padding: 8px 9px 9px 9px;
@@ -2120,7 +2120,7 @@ cursor:auto;
 }
 
 .posveta-preview2017 {
-	background-image: url(bg/2017/spread-posveta-2017.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/spread-posveta-2017.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     position: absolute;
@@ -2191,7 +2191,7 @@ cursor:auto;
 }
 
 .bb-2017 .bb-item:not(:first-child){
-	background: transparent url(bg/2017/spread-2017.png) no-repeat 50% 0;
+	background: transparent url(http://planner.printcerovski.com/css/bg/2017/spread-2017.png) no-repeat 50% 0;
 }
 
 
@@ -2200,7 +2200,7 @@ cursor:auto;
     box-shadow: none;
 	*/
     margin: 11px 12px;
-	background: transparent url(bg/2017/spread-no-shadow.png) no-repeat 50% 50%;
+	background: transparent url(http://planner.printcerovski.com/css/bg/2017/spread-no-shadow.png) no-repeat 50% 50%;
 }
 
 
@@ -2268,19 +2268,19 @@ cursor:auto;
 }
 
 .text-left{
-	background-image: url(bg/2017/text-left.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/text-left.png);
 }
 
 .text-center{
-	background-image: url(bg/2017/text-center.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/text-center.png);
 }
 
 .text-right{
-	background-image: url(bg/2017/text-right.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/text-right.png);
 }
 
 .text-uppercase{
-	background-image: url(bg/2017/text-uppercase.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/text-uppercase.png);
 }
 
 .text-dd{
@@ -2291,12 +2291,12 @@ cursor:auto;
 
 .text-dd-aa{
 	float: left;
-	background-image: url(bg/2017/aa.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/aa.png);
 }
 
 .text-dd-va{
 	float: right;
-	background-image: url(bg/2017/va.png);
+	background-image: url(http://planner.printcerovski.com/css/bg/2017/va.png);
 }
 
 .stupac-siroki,
